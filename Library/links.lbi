@@ -1,18 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>about</title>
-</head>
-
-<body>
-<h1>About us</h1>
-<p>[Company Description goes here]</p>
-<p>&nbsp;</p>
-<!-- #BeginLibraryItem "/Library/links.lbi" -->
-<p><a href="../index.html">Homepage</a></p>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p><a href="../index.html">Homepage</a></p>
 <h3>The Company :</h3>
-<p><a href="about.html">About</a></p>
+<p><a href="../company/about.html">About</a></p>
 <h3>Members :</h3>
 <p><a href="../board-members/founder.html">Founder: John Smith</a></p>
 <p><a href="../board-members/president.html">President: Margaret Donovan</a></p>
@@ -27,6 +15,3 @@
 <p><a href="../product/meditation-benches.html">Meditation Benches</a></p>
 <p><a href="../product/bells-and-gong.html">Bells &amp; Gongs</a></p>
 <p><a href="../product/incense-bowls.html">Incense Bowls</a></p>
-<!-- #EndLibraryItem -->
-</body>
-</html>
